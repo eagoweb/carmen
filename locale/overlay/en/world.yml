@@ -8,3 +8,7 @@ en:
       official_name: Republic of China
     vn:
       name: Vietnam
+    do:
+      common_name: DR
+      name: Dominican Republic
+      official_name: Dominican Republic

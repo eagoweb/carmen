@@ -248,7 +248,7 @@ es:
     do:
       common_name: !!null 
       name: República Dominicana
-      official_name: !!null 
+      official_name: República Dominicana
     dz:
       common_name: !!null 
       name: Argelia
